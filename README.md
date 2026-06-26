@@ -55,7 +55,7 @@ of this folder to it.
 
 ### 4. Share the link
 Vercel gives you a public URL like `https://scholarmind-app.vercel.app`.
-Anyone can open it on a laptop and use the app — the keys stay hidden on the server.
+Anyone can open it on a laptop and use the app, the keys stay hidden on the server.
 
 ## Run locally (optional)
 Because the API routes need the Vercel runtime, the easiest local test is:
